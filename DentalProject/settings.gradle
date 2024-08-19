@@ -1,0 +1,5 @@
+rootProject.name = 'DentalProject'
+include 'Patient-ms'
+include 'Discovery-ms'
+include 'API-Gateway'
+include 'Common-ms'

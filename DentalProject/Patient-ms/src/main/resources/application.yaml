@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    include: -db
+
+  application:
+    name: patient-ms
+
+  liquibase:
+    enabled: false
+server:
+  port: 0
